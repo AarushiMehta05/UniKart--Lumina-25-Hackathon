@@ -1,5 +1,5 @@
 # UniKart – Campus Convenience Delivery System  
-**Team Name:** [Your Team Name]  
+**Team Name:** CodeQueens  
 **Hackathon:** Lumina 25 (Hackathon)  
 **Repository:** https://github.com/AarushiMehta05/UniKart--Lumina-25-Hackathon
 
